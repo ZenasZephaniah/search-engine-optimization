@@ -1,0 +1,84 @@
+[
+  {
+    "blogName": "Manas Saloi",
+    "title": "Front end development process",
+    "link": "/2026/05/07/front-end-dev-order.html",
+    "publishedDate": "2026-05-07T00:00:00.000Z",
+    "contentSnippet": "My front-end development process for a new product: Proven execution Product feel User-led iteration and invention Proven Execution is the baseline. E..."
+  },
+  {
+    "blogName": "Manas Saloi",
+    "title": "Death of the middle",
+    "link": "/2026/05/06/middle-death.html",
+    "publishedDate": "2026-05-06T00:00:00.000Z",
+    "contentSnippet": "For much of the 20th century, society was built around bell curves: Average job. Average company. Average return. Average salary. Average investor. Th..."
+  },
+  {
+    "blogName": "Wait But Why",
+    "title": "The sights and sounds of Bhutan",
+    "link": "https://waitbutwhy.com/2025/11/bhutan.html",
+    "publishedDate": "Tue, 25 Nov 2025 17:15:10 +0000",
+    "contentSnippet": "Ever present in my mind is The List: the countries I still haven’t gone to that I most want to visit. Ethiopia is on The List. So is Indonesia. And So..."
+  },
+  {
+    "blogName": "Wait But Why",
+    "title": "Tales from Toddlerhood",
+    "link": "https://waitbutwhy.com/2025/10/toddler.html",
+    "publishedDate": "Fri, 24 Oct 2025 12:36:56 +0000",
+    "contentSnippet": "Back in 2023, I wrote a post about having my first baby and all the things that confused me about doing so. Earlier this year, it happened again. Just..."
+  },
+  {
+    "blogName": "Paul Graham",
+    "title": "Superlinear Returns",
+    "link": "http://www.paulgraham.com/superlinear.html",
+    "contentSnippet": "October 2023One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance..."
+  },
+  {
+    "blogName": "Paul Graham",
+    "title": "How to Do Great Work",
+    "link": "http://www.paulgraham.com/greatwork.html",
+    "contentSnippet": "July 2023If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to f..."
+  },
+  {
+    "blogName": "Dan Abramov (Overreacted)",
+    "title": "A Social Filesystem",
+    "link": "https://overreacted.io/a-social-filesystem/",
+    "publishedDate": "Sun, 18 Jan 2026 00:00:00 GMT",
+    "contentSnippet": "A Social FilesystemJanuary 18, 2026Pay what you likeRemember files? .doc.doc.doc.doc.jpg.jpg.svg You write a document, hit save, and the file is on yo..."
+  },
+  {
+    "blogName": "Dan Abramov (Overreacted)",
+    "title": "Introducing RSC Explorer",
+    "link": "https://overreacted.io/introducing-rsc-explorer/",
+    "publishedDate": "Fri, 19 Dec 2025 00:00:00 GMT",
+    "contentSnippet": "Introducing RSC ExplorerDecember 19, 2025Pay what you likeIn the past few weeks, since the disclosure of the critical security vulnerability in React ..."
+  },
+  {
+    "blogName": "Gergely Orosz (Pragmatic Engineer)",
+    "title": "The Pulse: Forward deployed engineering heats up again",
+    "link": "https://blog.pragmaticengineer.com/the-pulse-forward-deployed-engineering-heats-up-again/",
+    "publishedDate": "Sun, 24 May 2026 20:35:11 GMT",
+    "contentSnippet": "Hi, this is Gergely with a bonus, free issue of the Pragmatic Engineer Newsletter. In every issue, I cover Big Tech and startups through the lens of s..."
+  },
+  {
+    "blogName": "Gergely Orosz (Pragmatic Engineer)",
+    "title": "Google Cloud deletes Australian trading fund’s infra",
+    "link": "https://blog.pragmaticengineer.com/google-cloud-deletes-australian-trading-funds-infra/",
+    "publishedDate": "Wed, 20 May 2026 08:31:08 GMT",
+    "contentSnippet": "A $124B fund in Australia would have lost all data stored with Google Cloud, had they not relied on a third-party backup. A rare blunder from GCP, whe..."
+  },
+  {
+    "blogName": "Joel on Software",
+    "title": "Progress on the Block Protocol",
+    "link": "https://www.joelonsoftware.com/2022/12/19/progress-on-the-block-protocol/",
+    "publishedDate": "Mon, 19 Dec 2022 13:01:40 +0000",
+    "contentSnippet": "News Since the 1990s, the web has been a publishing place for human-readable documents. Documents published on the web are in HTML. HTML has a little ..."
+  },
+  {
+    "blogName": "Joel on Software",
+    "title": "Making the web better. With blocks!",
+    "link": "https://www.joelonsoftware.com/2022/01/27/making-the-web-better-with-blocks/",
+    "publishedDate": "Thu, 27 Jan 2022 17:14:00 +0000",
+    "contentSnippet": "News You’ve probably seen web editors based on the idea of blocks. I’m typing this in WordPress, which has a little + button that brings up a long lis..."
+  }
+]
