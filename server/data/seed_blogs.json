@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Manas Saloi",
+    "url": "https://manassaloi.com",
+    "rss_feed": "https://manassaloi.com/feed.xml"
+  },
+  {
+    "name": "Wait But Why",
+    "url": "https://waitbutwhy.com",
+    "rss_feed": "https://waitbutwhy.com/feed"
+  },
+  {
+    "name": "Paul Graham",
+    "url": "http://www.paulgraham.com",
+    "rss_feed": "http://www.aaronsw.com/2002/feeds/pgessays.rss" 
+  },
+  {
+    "name": "Dan Abramov (Overreacted)",
+    "url": "https://overreacted.io",
+    "rss_feed": "https://overreacted.io/rss.xml"
+  },
+  {
+    "name": "Gergely Orosz (Pragmatic Engineer)",
+    "url": "https://blog.pragmaticengineer.com",
+    "rss_feed": "https://blog.pragmaticengineer.com/rss/"
+  },
+  {
+    "name": "Joel on Software",
+    "url": "https://www.joelonsoftware.com",
+    "rss_feed": "https://www.joelonsoftware.com/feed/"
+  }
+]
