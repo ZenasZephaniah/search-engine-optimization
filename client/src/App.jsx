@@ -12,7 +12,8 @@ function App() {
     const fetchSearchResults = async () => {
       setIsSearching(true);
       try {
-        const response = await axios.get(`http://localhost:5001/api/search?q=${query}`);
+        // Example of what it should look like:
+        const response = await axios.get(`https://blog-search-backend-xyz.onrender.com/api/search?q=${query}`);
         setResults(response.data);
       } catch (error) {
         console.error("Error fetching search results:", error);
